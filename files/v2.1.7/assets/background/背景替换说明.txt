@@ -1,0 +1,20 @@
+页面背景替换说明（v1.8.9）
+
+表头背景（直接替换同名文件即可，页面标题不会受影响）：
+- player-query-header.jpg     战绩查询
+- battle-analysis-header.jpg  战斗分析
+- log-query-header.jpg        日志查询
+- clan-header.jpg             军团
+- spotting-header.jpg         点亮计算
+- toolbox-header.jpg          工具箱
+- settings-header.jpg         设置
+
+整页背景：
+- player-page.jpg             战绩查询整页
+- battle-page.jpg             战斗分析整页
+- log-page.jpg                日志查询整页
+
+局部卡片背景：
+- battle-card-background.jpg  战斗信息卡片
+
+建议：保持 JPG 格式和原文件名；表头画面不要写入标题文字，程序会单独绘制左上品牌和右下页面名。
